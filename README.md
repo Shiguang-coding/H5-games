@@ -8,7 +8,7 @@
 
 # 在线预览
 
-https://game.shiguang666.eu.org/
+https://games.shiguang666.eu.org/
 
 # 免责说明
 
